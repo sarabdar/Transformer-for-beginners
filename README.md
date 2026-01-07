@@ -1,4 +1,4 @@
-# Project Glossary: AI and Machine Learning
+# AI and Machine Learning
 
 This table provides a quick reference for the key terms and architectures used throughout this project.
 
